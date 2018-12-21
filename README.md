@@ -22,6 +22,12 @@
 8. [伪类是什么？有哪些？会有哪些兼容性问题？如何处理？](./css/pseudo-class.md)
 
 
+## JavaScript
+
+1. [typeof](./js/type.md)
+2. [弱类型转换规则](./js/transform.md)
+
+
 ## HTTP
 1. [http code](./http/code.md)
 2. [http 缓存逻辑是怎样的？协商缓存与强缓存？Last-Modified / Etag / Expires / Cache-Control ?](./http/cache.md)
