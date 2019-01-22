@@ -26,6 +26,7 @@
 
 1. [typeof](./js/type.md)
 2. [弱类型转换规则](./js/transform.md)
+3. [排序算法](./js/sort.md)
 
 
 ## HTTP
